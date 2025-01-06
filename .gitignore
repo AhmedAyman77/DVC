@@ -2,3 +2,5 @@
 /models
 /CML_DVC_env
 *.json
+config.bat
+node_modules
